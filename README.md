@@ -1,0 +1,2 @@
+# Dockitty
+AI grammr bot
